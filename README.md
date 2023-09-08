@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hello, Welcome to my Portfolio 👋
+_______________________________________
 
 ![Visitor Count](https://profile-counter.glitch.me/{ayushkale1909}/count.svg)
 
+_______________________________________
 
+![It Crowd Programming](https://media.giphy.com/media/1C8bHHJturSx2/source.gif)
+
+_______________________________________
 <!--
 **ayushkale1909/ayushkale1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
