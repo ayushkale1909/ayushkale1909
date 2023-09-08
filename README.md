@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/{ayushkale1909}/count.svg)
+
+
 <!--
 **ayushkale1909/ayushkale1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
