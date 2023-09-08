@@ -10,7 +10,7 @@ _______________________________________
 
 _______________________________________
 
-## My name is Ayush Kale and I am a masters student at NJIT in Electrical Engineering focusing on Computer Networking Systems and Wireless Communication. I am interested in Network Programmability and Automation. 
+My name is Ayush Kale and I am a masters student at NJIT in Electrical Engineering focusing on Computer Networking Systems and Wireless Communications. I am interested in Network Programmability and Automation. 
 
 
 _______________________________________
