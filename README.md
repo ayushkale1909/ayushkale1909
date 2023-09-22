@@ -15,7 +15,6 @@ My name is Ayush Kale and I am a masters student at NJIT in Electrical Engineeri
 
 _______________________________________
 
-![It Crowd Programming](https://media.giphy.com/media/1C8bHHJturSx2/source.gif)
 
 
 _______________________________________
